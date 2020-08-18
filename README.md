@@ -8,6 +8,7 @@ Project Tugas Pengganti UAS Basis Data
 ## Petunjuk Penggunaan
 - Buat _Database_ dengan nama **`dbakademik`**
 - Lakukan _import Database_ melalui phpMyAdmin dengan nama file: **`10118015_bakademik.sql`**
+- Buat akun dengan mengklik **`klik disini`** Atau login dengan menggunakan username **`admin`** dan password **`admin`**
 
 ## Fitur
 Fitur yang ada di Aplikasi Stok barang sebagai berikut:
